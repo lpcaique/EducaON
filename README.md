@@ -6,7 +6,7 @@ Este projeto visa trazer praticidade e digitalizar um processo que já ocorre em
 <br>
 <h3>Participantes:</h3>
 - Caique Luís Pereira<br>
-- Matheus Paulo Alves dos Santos 
+- Mateus Paulo Alves dos Santos 
 <br>
 
 <h3>Tecnologias</h3>
