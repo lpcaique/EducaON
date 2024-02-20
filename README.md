@@ -6,12 +6,14 @@ Este projeto visa trazer praticidade e digitalizar um processo que já ocorre em
 <br>
 <h3>Participantes:</h3>
 - Caique Luís Pereira<br>
-- Mateus Paulo Alves dos Santos 
+- Esdras de Melo Motta<br>
+- Igor Zanetti Domotor<br>
+- Mateus Paulo Alves dos Santos
 <br>
 
 <h3>Tecnologias</h3>
-Backend: JavaScript<br>
-Frontend: HTML, CSS e Bootstrap<br>
+Backend: TypeScript<br>
+Frontend: HTML, CSS, Bootstrap e React<br>
 DB: MySQL<br>
 
 <br>
